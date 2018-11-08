@@ -1,3 +1,3 @@
-struct swift_bugs {
-    var text = "Hello, World!"
+struct SwiftBugs {
+  // Check out the tests...
 }
