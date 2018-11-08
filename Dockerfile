@@ -6,4 +6,5 @@ COPY . ./
 
 RUN swift package resolve
 RUN swift package clean
+RUN swift --version
 CMD swift test --parallel
